@@ -1,18 +1,18 @@
-# 🏠 House Price Prediction Model
+#  House Price Prediction Model
 
-## 📌 About
+##  About
 A machine learning project that predicts house prices based on various property features like area, number of bedrooms, furnishing status, and more. Built and compared **5 regression models** to find the best performer.
 
-## 🛠️ Tech Stack
+##  Tech Stack
 - **Language:** Python
 - **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn, XGBoost
 
-## 📊 Dataset
+##  Dataset
 - **Source:** Housing.csv
 - **Records:** 545 entries
 - **Features:** Area, Bedrooms, Bathrooms, Stories, Parking, Mainroad, Guestroom, Basement, Hot Water Heating, Air Conditioning, Preferred Area, Furnishing Status
 
-## 🔍 What I Did
+## What I Did
 
 ### 1. Exploratory Data Analysis (EDA)
 - Distribution analysis of house prices
@@ -44,13 +44,13 @@ A machine learning project that predicts house prices based on various property 
 - **R² Score:** 0.665
 - **MAE:** ₹9,64,059
 
-## 📂 Project Structure
+##  Project Structure
 ```
 ├── House_Price_Prediction_Model.ipynb   # Jupyter Notebook
 └── README.md                            # Project Documentation
 ```
 
-## 🚀 How to Run
+##  How to Run
 1. Clone this repository
    ```bash
    git clone https://github.com/chiragsddsdc/house-price-prediction.git
@@ -64,5 +64,5 @@ A machine learning project that predicts house prices based on various property 
    jupyter notebook House_Price_Prediction_Model.ipynb
    ```
 
-## 📬 Contact
+##  Contact
 - **Email:** chiragyadav2424@gmail.com
